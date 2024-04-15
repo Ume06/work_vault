@@ -8,8 +8,11 @@ if %errorlevel% equ 0 (
     git add .
     
     rem Get the current date in MM/DD/YYYY format
-    for /F "tokens=2 delims==" %%I in ('wmic os get localdatetime /format:list') do set datetime=%%I
-    set current_date=%datetime:~4,2%/%datetime:~6,2%/%datetime:~0,4%
+    for /F "tokens=1* delims=" %%A in ('date/t') do set datetime=%%B
+    for /F "tokens=1,2 eol=/ delims=/" %%A in ('date/t') do set mm=%%B
+    for /F "tokens=2,2 eol=/ delims=/" %%A in ('echo %cdate%') do set dd=%%B
+    for /F "tokens=2,3 delims=/" %%A in ('echo %cdate%') do set yyyy=%%B
+    set current_date=%mm%%dd%%yyyy%
     
     rem Print the current date
     echo Current date: %current_date%
