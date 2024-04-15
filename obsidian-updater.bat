@@ -1,7 +1,7 @@
 @echo off
 
 rem Navigate to the folder you want to commit
-cd /d C:\path\to\your\folder
+cd /d "C:\Users\jack.duggan\OneDrive - SAGE\Documents\work_vault"
 
 rem Check if there are any changes in the repository
 git status | findstr /R "modified added deleted" > nul
