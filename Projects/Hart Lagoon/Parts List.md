@@ -1,0 +1,3 @@
+- 4..20mA to LoRaWAN converter https://iotfactory.eu/products/iot-sensors/4-20ma-to-lorawan-converter/
+- Siemens mag flow https://instrowest.com.au/flow-sensor-mag-5100-w-dn200-diameter-pn16-as4087.html?gad_source=1&gclid=EAIaIQobChMI-5rDpOuxhQMV4gp7Bx2OPwBLEAQYASABEgIjwfD_BwE
+- milesight

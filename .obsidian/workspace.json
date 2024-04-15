@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "091b5daa5e9c97ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd3ead51d2a07d90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee5c614e14d26a4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planner/10-04-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a889d48fd6acdb4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfb9d1e4e72d36c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4de189227755d5f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "625b1cda726878aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "870e9e28315e48fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "71e7bee95930670a",
+    "type": "split",
+    "children": [
+      {
+        "id": "22b3e122d21f0293",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b77d33d2148767d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Planner/10-04-2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f591cd9dab9e9639",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Planner/10-04-2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61fcec5d0924aaa6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9ecb0a49d7163b1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Planner/10-04-2024.md"
+              }
+            }
+          },
+          {
+            "id": "49daedc7b64cbe9d",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "ee5c614e14d26a4a",
+  "lastOpenFiles": [
+    "Planner/09-04-2024.md",
+    "Planner/08-04-2024.md",
+    "Planner/10-04-2024.md",
+    "Planner/11-04-2024.md",
+    "Planner/12-03-2024.md",
+    "Planner/04-03-2024.md",
+    "Benalla Data Analysis.md",
+    "Home.md",
+    "Planner/15-04-2024.md",
+    "Planner/14-02-2024.md",
+    "Projects/Pelosi Tracker/Pelosi Tracker Design Doc.md",
+    "Planner/01-03-2024.md",
+    "Wiki Pages/Updating edge to 70897 gastech connector.md",
+    "Wiki Pages/Untitled 2.md",
+    "Wiki Pages/Edge Migration to gastech connector.md",
+    "Planner/05-04-2024.md",
+    "Planner/06-04-2024.md",
+    "Planner/07-04-2024.md",
+    "Planner/19-02-2024.md",
+    "Planner/20-02-2024.md",
+    "Planner/25-03-2024.md",
+    "Planner/27-02-2024.md",
+    "Planner/26-02-2024.md",
+    "Planner/25-02-2024.md",
+    "Planner/24-02-2024.md",
+    "Planner/23-02-2024.md",
+    "Projects/Hart Lagoon",
+    "Untitled.canvas",
+    "Projects/Pelosi Tracker",
+    "Projects/79294 - RAA Go",
+    "Projects/EDGE Watchdog PCB",
+    "Research and Development",
+    "Projects/86167 - FH Containers",
+    "Projects",
+    "Wiki Pages",
+    "SAGE/01 Proposals",
+    "SAGE",
+    "Untitled 1.canvas"
+  ]
+}
