@@ -1,5 +1,3 @@
-@echo off
-
 rem Navigate to the folder you want to commit
 cd /d "C:\Users\jack.duggan\OneDrive - SAGE\Documents\work_vault"
 
@@ -16,7 +14,7 @@ if %errorlevel% equ 0 (
     set "DD=%dt:~6,2%"
     set "current_date=- %DD%/%MM%/%YYYY%"
     echo %current_date%
-    
+
     rem Commit changes with the current date as the commit message
     git commit -m "- %current_date%"
     
