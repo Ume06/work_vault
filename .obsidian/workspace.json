@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8c6d14330d2ad8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Small Form PCB Case/v2 notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/FH Dashboard Update/Initial Notes-SE2985.md",
+                "file": "Projects/Small Form PCB Case/v2 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/FH Dashboard Update/Initial Notes-SE2985.md",
+                "file": "Projects/Small Form PCB Case/v2 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/FH Dashboard Update/Initial Notes-SE2985.md"
+                "file": "Projects/Small Form PCB Case/v2 notes.md"
               }
             }
           },
@@ -169,10 +181,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "2caf2ad9d951f519",
+  "active": "b8c6d14330d2ad8a",
   "lastOpenFiles": [
-    "Projects/FH Dashboard Update/Initial Notes.md",
+    "Projects/Small Form PCB Case/Repo README.md",
+    "Projects/Small Form PCB Case/v2 notes.md",
+    "Projects/Small Form PCB Case",
     "Projects/FH Dashboard Update/Initial Notes-SE2985.md",
+    "Projects/FH Dashboard Update/Initial Notes.md",
     "Projects/FH Dashboard Update",
     "Projects/Benalla Data Analytics/Benalla Data Observations.md",
     "Projects/Benalla Data Analytics",
@@ -200,14 +215,11 @@
     "Planner/19-02-2024.md",
     "Planner/20-02-2024.md",
     "Planner/25-03-2024.md",
-    "Planner/27-02-2024.md",
-    "Planner/26-02-2024.md",
     "Projects/Hart Lagoon",
     "Untitled.canvas",
     "Projects/Pelosi Tracker",
     "Projects/79294 - RAA Go",
     "Projects/EDGE Watchdog PCB",
-    "Research and Development",
     "Untitled 1.canvas"
   ]
 }
