@@ -6,7 +6,7 @@
 	3. response to heartbeat with time since last 5 failures and uptime
 2. Allow use of serial to set
 	1. time without heartbeat before restart
-	2. time between restarts and no power restore
+	2. time between restarts and no heartbeat restore
 	3. arm heartbeat detector
 3. Ethernet LED's
 	1. orange will trun on for sending data

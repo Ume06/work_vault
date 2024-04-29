@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/EDGE Watchdog PCB/watchdog code design.md",
+                "file": "Projects/EDGE Watchdog PCB/Functionality and Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/EDGE Watchdog PCB/watchdog code design.md",
+                "file": "Projects/EDGE Watchdog PCB/Functionality and Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/EDGE Watchdog PCB/watchdog code design.md"
+                "file": "Projects/EDGE Watchdog PCB/Functionality and Testing.md"
               }
             }
           },
@@ -205,10 +205,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "1f4806f2cb03ca94",
+  "active": "a84579e35bb335bc",
   "lastOpenFiles": [
-    "Projects/EDGE Watchdog PCB/Functionality and Testing.md",
     "Projects/EDGE Watchdog PCB/watchdog code design.md",
+    "Projects/EDGE Watchdog PCB/Functionality and Testing.md",
     "Projects/EDGE Watchdog PCB/EDGE-PCB Knowledge Share - Schematic Design Process.md",
     "Projects/EDGE Watchdog PCB/Future Revision Notes.md",
     "Projects/EDGE Watchdog PCB/3D Model Notes.md",
