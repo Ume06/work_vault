@@ -9,3 +9,29 @@
 * check static compoilation of QT file
 * build debs using CI pipeline
 * add test points to pcb
+
+# pcb-schematic-v2
+
+  
+
+## Description
+
+  
+
+v2 of the edge watchdog pcb. Functionality will be identical to previous version - monitoring the edge for a heartbeat, and power cycling when no heartbeat has been received for a set interval.
+
+  
+
+## Usage
+
+  
+
+This repository holds the schematic files for the pcb designed to connect to the edge. To use, open the .pro file in [KiCad](https://www.kicad.org/) and export gerber files to print.
+
+  
+
+## Roadmap
+
+  
+
+- [ ] 
