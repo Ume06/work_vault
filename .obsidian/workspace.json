@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "cff3c8fda80fa1c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laptop Selection Document.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1f4806f2cb03ca94",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/EDGE Watchdog PCB/EDGE-PCB Knowledge Share - Schematic Design Process.md",
+                "file": "Laptop Selection Document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/EDGE Watchdog PCB/EDGE-PCB Knowledge Share - Schematic Design Process.md",
+                "file": "Laptop Selection Document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/EDGE Watchdog PCB/EDGE-PCB Knowledge Share - Schematic Design Process.md"
+                "file": "Laptop Selection Document.md"
               }
             }
           },
@@ -205,13 +217,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "a84579e35bb335bc",
+  "active": "cff3c8fda80fa1c5",
   "lastOpenFiles": [
+    "Projects/EDGE Watchdog PCB/EDGE-PCB Knowledge Share - Schematic Design Process.md",
+    "Laptop Selection Document.md",
     "Projects/Benalla Data Analytics/Benalla Data Observations.md",
     "Projects/EDGE Watchdog PCB/watchdog code design.md",
     "Projects/EDGE Watchdog PCB/Future Revision Notes.md",
     "Projects/EDGE Watchdog PCB/Functionality and Testing.md",
-    "Projects/EDGE Watchdog PCB/EDGE-PCB Knowledge Share - Schematic Design Process.md",
     "Projects/EDGE Watchdog PCB/3D Model Notes.md",
     "Projects/Small Form PCB Case/Repo README.md",
     "Wiki Pages/Edge Migration to gastech connector.md",
@@ -238,7 +251,6 @@
     "Planner/11-04-2024.md",
     "Planner/12-03-2024.md",
     "Planner/04-03-2024.md",
-    "Home.md",
     "Projects/Hart Lagoon",
     "Untitled.canvas",
     "Projects/Pelosi Tracker",
