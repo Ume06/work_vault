@@ -1,0 +1,7 @@
+![[Pasted image 20240603135901.png]]
+[[Kafka Enable Disable]]
+[[Kafka Topic]]
+[[Kafka Server IP]]
+[[Kafka Server Port]]
+[[Publish Time]]
+[[Addinsight|Back]]

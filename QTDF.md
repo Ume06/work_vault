@@ -1,0 +1,10 @@
+![[Pasted image 20240603132445.png]]
+[[Device ID]]
+[[Device Desc]]
+[[GPS Location]]
+[[Log Enable]]
+[[Log Path]]
+[[Log Flush]]
+[[Log Rollover]]
+[[Addinsight|Back]]
+
