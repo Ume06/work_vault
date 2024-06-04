@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System.md",
+                "file": "MQTT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System.md",
+                "file": "MQTT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System.md",
+                "file": "MQTT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System.md"
+                "file": "MQTT.md"
               }
             }
           },
@@ -158,9 +158,14 @@
   },
   "active": "191ec4bb88c54863",
   "lastOpenFiles": [
-    "edge-config/Home.md",
-    "MQTT.md",
     "Addinsight.md",
+    "System.md",
+    "edge-config/Home.md",
+    "Services.md",
+    "Site ID.md",
+    "Timezone.md",
+    "Hostname.md",
+    "MQTT.md",
     "Kafka.md",
     "Kafka Enable Disable.md",
     "MQTT Enable/Disable.md",
@@ -191,11 +196,6 @@
     "Device ID.md",
     "Uplink.md",
     "Server Port.md",
-    "Server IP.md",
-    "Site ID.md",
-    "System.md",
-    "Timezone.md",
-    "Hostname.md",
     "edge-config/Untitled",
     "edge-config",
     "Projects/Small Form PCB Case",
