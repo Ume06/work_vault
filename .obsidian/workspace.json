@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad13d5c15e1e4626",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +167,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "191ec4bb88c54863",
+  "active": "ad13d5c15e1e4626",
   "lastOpenFiles": [
     "Planner/11-04-2024.md",
     "Planner/11-06-2024.md",
