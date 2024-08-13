@@ -42,9 +42,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "25ae1f20940a78e5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "043e4d529ebec84b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Updating Edge-Heartbeat Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wiki Pages/Configuring LoRaWAN Device.md",
+                "file": "Updating Edge-Heartbeat Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wiki Pages/Configuring LoRaWAN Device.md",
+                "file": "Updating Edge-Heartbeat Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wiki Pages/Configuring LoRaWAN Device.md"
+                "file": "Updating Edge-Heartbeat Process.md"
               }
             }
           },
@@ -181,8 +203,9 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f884c8a88276e012",
+  "active": "043e4d529ebec84b",
   "lastOpenFiles": [
+    "Updating Edge-Heartbeat Process.md",
     "Wiki Pages/Untitled 2.md",
     "Wiki Pages/Setting  up a Pedestrian Tracker Grafana Display.md",
     "Wiki Pages/Naming devices on SAGE Smart-Cities DB.md",
@@ -208,7 +231,6 @@
     "Timezone.md",
     "Hostname.md",
     "Kafka.md",
-    "Kafka Enable Disable.md",
     "MQTT Enable",
     "Pasted image 20240603140505.png",
     "Pasted image 20240603140420.png",
