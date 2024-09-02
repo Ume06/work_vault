@@ -64,9 +64,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d977352f1bf05def",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "North Adelaide Golf Course Visitor Analytics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Updating Edge-Heartbeat Process.md",
+                "file": "North Adelaide Golf Course Visitor Analytics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Updating Edge-Heartbeat Process.md",
+                "file": "North Adelaide Golf Course Visitor Analytics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Updating Edge-Heartbeat Process.md"
+                "file": "North Adelaide Golf Course Visitor Analytics.md"
               }
             }
           },
@@ -203,8 +215,19 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "043e4d529ebec84b",
+  "active": "d977352f1bf05def",
   "lastOpenFiles": [
+    "North Adelaide Golf Course Visitor Analytics.pdf",
+    "mso11E7.tmp",
+    "Pasted image 20240828141014.png",
+    "North Adelaide Golf Course Visitor Analytics.md",
+    "Pasted image 20240828140904.png",
+    "Pasted image 20240828143002.png",
+    "Pasted image 20240828142904.png",
+    "Pasted image 20240828142852.png",
+    "Pasted image 20240828142216.png",
+    "Pasted image 20240828141738.png",
+    "Pasted image 20240828141718.png",
     "Updating Edge-Heartbeat Process.md",
     "Wiki Pages/Untitled 2.md",
     "Wiki Pages/Setting  up a Pedestrian Tracker Grafana Display.md",
@@ -229,20 +252,10 @@
     "edge-config/Home.md",
     "Services.md",
     "Timezone.md",
-    "Hostname.md",
-    "Kafka.md",
     "MQTT Enable",
     "Pasted image 20240603140505.png",
     "Pasted image 20240603140420.png",
-    "Pasted image 20240603140345.png",
-    "Pasted image 20240603140312.png",
-    "Pasted image 20240603140250.png",
-    "Pasted image 20240603140219.png",
     "Kafka Enable",
-    "Pasted image 20240603135901.png",
-    "Pasted image 20240603135746.png",
-    "Pasted image 20240603135721.png",
-    "Pasted image 20240603135655.png",
     "edge-config/Untitled",
     "edge-config",
     "Projects/Small Form PCB Case",
@@ -250,7 +263,6 @@
     "Projects/Benalla Data Analytics",
     "test.bat",
     "obsidian-updater.bat",
-    "obsidian-updater.sh",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
