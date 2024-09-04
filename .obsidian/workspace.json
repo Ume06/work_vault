@@ -76,9 +76,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5cb95969aa153bc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Edge Watchdog v3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "North Adelaide Golf Course Visitor Analytics.md",
+                "file": "Edge Watchdog v3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "North Adelaide Golf Course Visitor Analytics.md",
+                "file": "Edge Watchdog v3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "North Adelaide Golf Course Visitor Analytics.md"
+                "file": "Edge Watchdog v3.md"
               }
             }
           },
@@ -215,12 +227,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d977352f1bf05def",
+  "active": "5cb95969aa153bc3",
   "lastOpenFiles": [
+    "North Adelaide Golf Course Visitor Analytics.md",
+    "Edge Watchdog v3.md",
+    "Untitled.md",
     "North Adelaide Golf Course Visitor Analytics.pdf",
     "mso11E7.tmp",
     "Pasted image 20240828141014.png",
-    "North Adelaide Golf Course Visitor Analytics.md",
     "Pasted image 20240828140904.png",
     "Pasted image 20240828143002.png",
     "Pasted image 20240828142904.png",
@@ -251,7 +265,6 @@
     "System.md",
     "edge-config/Home.md",
     "Services.md",
-    "Timezone.md",
     "MQTT Enable",
     "Pasted image 20240603140505.png",
     "Pasted image 20240603140420.png",
@@ -262,7 +275,6 @@
     "Projects/FH Dashboard Update",
     "Projects/Benalla Data Analytics",
     "test.bat",
-    "obsidian-updater.bat",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
