@@ -132,6 +132,18 @@
             }
           },
           {
+            "id": "b91cadd835edff7d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "fa6d03ceed724c1b",
             "type": "leaf",
             "state": {
@@ -158,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -311,7 +323,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "bf82a2f189e20783",
+  "active": "b91cadd835edff7d",
   "lastOpenFiles": [
     "Untitled 1.md",
     "writing.md",
