@@ -137,12 +137,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDGE Ped. Counting Deployment.md",
+                "file": "Wiki Pages/Setting  up a Pedestrian Tracker Grafana Display.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EDGE Ped. Counting Deployment"
+              "title": "Setting  up a Pedestrian Tracker Grafana Display"
             }
           },
           {
@@ -327,13 +327,13 @@
   },
   "active": "0c2d16d0ac92d9a3",
   "lastOpenFiles": [
-    "Wiki Pages/Untitled 2.md",
+    "Wiki Pages/Updating edge to 70897 gastech connector.md",
     "EDGE Ped. Counting Deployment.md",
+    "Wiki Pages/Untitled 2.md",
     "Wiki Pages/Setting  up a Pedestrian Tracker Grafana Display.md",
     "Wiki Pages/Naming devices on SAGE Smart-Cities DB.md",
     "Wiki Pages/Edge Migration to gastech connector.md",
     "Wiki Pages/Configuring LoRaWAN Device.md",
-    "Wiki Pages/Updating edge to 70897 gastech connector.md",
     "Untitled 1.md",
     "Untitled.md",
     "Updating Edge-Heartbeat Process.md",
