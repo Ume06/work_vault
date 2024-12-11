@@ -151,12 +151,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "North Adelaide Dashboard Updates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "North Adelaide Dashboard Updates"
             }
           },
           {
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -325,12 +325,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0c2d16d0ac92d9a3",
+  "active": "fa6d03ceed724c1b",
   "lastOpenFiles": [
+    "North Adelaide Dashboard Updates.md",
+    "Wiki Pages/Setting  up a Pedestrian Tracker Grafana Display.md",
     "Wiki Pages/Updating edge to 70897 gastech connector.md",
     "EDGE Ped. Counting Deployment.md",
     "Wiki Pages/Untitled 2.md",
-    "Wiki Pages/Setting  up a Pedestrian Tracker Grafana Display.md",
     "Wiki Pages/Naming devices on SAGE Smart-Cities DB.md",
     "Wiki Pages/Edge Migration to gastech connector.md",
     "Wiki Pages/Configuring LoRaWAN Device.md",
