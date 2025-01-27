@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "58534e3ffed6440c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jack Duggan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jack Duggan"
+            }
+          },
+          {
             "id": "d38218bf11281256",
             "type": "leaf",
             "state": {
@@ -90,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,11 +257,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "670dccb3ef32bfa7",
+  "active": "58534e3ffed6440c",
   "lastOpenFiles": [
+    "Gary Meeting Notes.md",
+    "Jack Duggan.md",
     "North Adelaide Dashboard Updates.md",
     "amazon amino ammo ammonia animation anion annotation anoint anon atom atomization.md",
-    "Gary Meeting Notes.md",
     "Untitled.md",
     "w.md",
     "Pasted image 20241219140207.png",
@@ -281,7 +296,6 @@
     "Projects/EDGE Watchdog PCB/watchdog code design.md",
     "Projects/EDGE Watchdog PCB/Future Revision Notes.md",
     "Projects/EDGE Watchdog PCB/Functionality and Testing.md",
-    "Projects/EDGE Watchdog PCB/EDGE-PCB Knowledge Share - Schematic Design Process.md",
     "Wiki Pages/Untitled",
     "North Adelaide Golf Course Visitor Analytics.pdf",
     "mso11E7.tmp",

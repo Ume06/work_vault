@@ -6,3 +6,6 @@
 - work on SCATS data to build OD Demand table / TRIPS Table
 - choose a representative day
 - structure of OD: ./${day}/\${time period}
+
+
+* 
