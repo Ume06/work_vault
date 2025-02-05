@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8951f4d28cff8fe1",
+        "id": "a316953f0e48d6ea",
         "type": "tabs",
         "children": [
           {
-            "id": "795d047a5238be15",
+            "id": "0528d08c975fa8f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,89 +22,21 @@
             }
           },
           {
-            "id": "fd4df52c1053a5ed",
+            "id": "8bdb414fc0439c42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "670dccb3ef32bfa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gary Meeting Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gary Meeting Notes"
-            }
-          },
-          {
-            "id": "58534e3ffed6440c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jack Duggan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jack Duggan"
-            }
-          },
-          {
-            "id": "d38218bf11281256",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20241219140207.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241219140207"
-            }
-          },
-          {
-            "id": "29838de0c13b6652",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Algorithm"
-            }
-          },
-          {
-            "id": "6a2987472491d2d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "North Adelaide Dashboard Updates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "North Adelaide Dashboard Updates"
+              "title": "Untitled 1"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -257,14 +190,18 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "58534e3ffed6440c",
+  "active": "8bdb414fc0439c42",
   "lastOpenFiles": [
-    "Gary Meeting Notes.md",
-    "Jack Duggan.md",
-    "North Adelaide Dashboard Updates.md",
-    "amazon amino ammo ammonia animation anion annotation anoint anon atom atomization.md",
-    "Untitled.md",
     "w.md",
+    "Untitled 1.md",
+    "Meeting Notes.md",
+    "Meeting Note.md",
+    "Jack Duggan.md",
+    "Gary Meeting Notes.md",
+    "amazon amino ammo ammonia animation anion annotation anoint anon atom atomization.md",
+    "Algorithm.md",
+    "North Adelaide Dashboard Updates.md",
+    "Untitled.md",
     "Pasted image 20241219140207.png",
     "Pasted image 20241219151154.png",
     "Projects/Life Counter/Requirements.md",
@@ -272,9 +209,6 @@
     "Pasted image 20241219135028.png",
     "Pasted image 20241219134508.png",
     "Pasted image 20241219134431.png",
-    "Meeting Note.md",
-    "Meeting Notes.md",
-    "Algorithm.md",
     "Pasted image 20241219140017.png",
     "Pasted image 20241219140008.png",
     "Pasted image 20241219135603.png",
@@ -295,7 +229,6 @@
     "Projects/Benalla Data Analytics/Benalla Data Observations.md",
     "Projects/EDGE Watchdog PCB/watchdog code design.md",
     "Projects/EDGE Watchdog PCB/Future Revision Notes.md",
-    "Projects/EDGE Watchdog PCB/Functionality and Testing.md",
     "Wiki Pages/Untitled",
     "North Adelaide Golf Course Visitor Analytics.pdf",
     "mso11E7.tmp",

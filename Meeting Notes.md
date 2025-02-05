@@ -41,4 +41,8 @@
 - develop a set of matricies by count
 - simplified solution of demand from CompassIOT
 - dont worry about DNA
-- 
+
+
+| Name                          | Departs              | Type         | Origin  | Dest    |
+| ----------------------------- | -------------------- | ------------ | ------- | ------- |
+| Unique ID beginning with 'DV' | local time, HH:MM:SS | Vehicle Type | Zone ID | Zone ID |
