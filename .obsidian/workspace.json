@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Untitled 1"
             }
+          },
+          {
+            "id": "4e4124e0f5717f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CONTRACT FOR MUTUAL PURCHASE AGREEMENT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CONTRACT FOR MUTUAL PURCHASE AGREEMENT"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,10 +204,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "8bdb414fc0439c42",
+  "active": "4e4124e0f5717f43",
   "lastOpenFiles": [
-    "w.md",
     "Untitled 1.md",
+    "CONTRACT FOR MUTUAL PURCHASE AGREEMENT.md",
+    "w.md",
     "Meeting Notes.md",
     "Meeting Note.md",
     "Jack Duggan.md",
@@ -228,7 +243,6 @@
     "Projects/EDGE Watchdog PCB/3D Model Notes.md",
     "Projects/Benalla Data Analytics/Benalla Data Observations.md",
     "Projects/EDGE Watchdog PCB/watchdog code design.md",
-    "Projects/EDGE Watchdog PCB/Future Revision Notes.md",
     "Wiki Pages/Untitled",
     "North Adelaide Golf Course Visitor Analytics.pdf",
     "mso11E7.tmp",
