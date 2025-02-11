@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "CONTRACT FOR MUTUAL PURCHASE AGREEMENT"
             }
+          },
+          {
+            "id": "df9f1fdd8a1a7491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workout Planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Workout Planning"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,10 +218,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4e4124e0f5717f43",
+  "active": "df9f1fdd8a1a7491",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "CONTRACT FOR MUTUAL PURCHASE AGREEMENT.md",
+    "Workout Planning.md",
+    "Untitled 1.md",
     "w.md",
     "Meeting Notes.md",
     "Meeting Note.md",
@@ -242,7 +257,6 @@
     "Projects/86167 - FH Containers/Axis camera API.md",
     "Projects/EDGE Watchdog PCB/3D Model Notes.md",
     "Projects/Benalla Data Analytics/Benalla Data Observations.md",
-    "Projects/EDGE Watchdog PCB/watchdog code design.md",
     "Wiki Pages/Untitled",
     "North Adelaide Golf Course Visitor Analytics.pdf",
     "mso11E7.tmp",
