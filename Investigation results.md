@@ -35,3 +35,5 @@
 - currently working on a fix for 46
 - 31, 35, and 39 are most likely connectivity issues
 - 44 is most likely a hardware issue.
+
+T<sub>ij</sub> = A<sub>j</sub> / 
