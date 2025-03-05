@@ -37,3 +37,10 @@
 - 44 is most likely a hardware issue.
 
 T<sub>ij</sub> = A<sub>j</sub> / 
+
+
+From our investigation, sensors 31, 35, 39, and 46 are not able to send data via LoRaWAN due to a connection issue. The sensors are sending a 'join request' to the server, but are not receiving the 'join accept' message. Options to resolve this are either:
+- Update the Spreading Factor, trade-off will be payload and battery life
+- Moving Sensor
+
+Sensor 44 has most likely been powered-off, as it has sent no packets or data to the server.
