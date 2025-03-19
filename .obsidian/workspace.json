@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "6b93b18b5c4854cb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,7 +216,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "32a74dffc861bfa9",
+  "active": "6b93b18b5c4854cb",
   "lastOpenFiles": [
     "Genetec/Training 2.md",
     "Genetec/Genetec Training.md",
