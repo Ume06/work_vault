@@ -4,107 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a5094e0f7e7b90d0",
+        "id": "d3050609f911b18d",
         "type": "tabs",
         "children": [
           {
-            "id": "a830ea0885b7a0be",
+            "id": "a6413d2e239bb57e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Genetec Training.md",
+                "file": "Genetec Integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Genetec Training"
-            }
-          },
-          {
-            "id": "585296e15ffc807e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Genetec/Genetec Training.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Genetec Training"
-            }
-          },
-          {
-            "id": "32a74dffc861bfa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "6b93b18b5c4854cb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
-            "id": "6bf178f996e7581f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minutes, SaW PoC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Minutes, SaW PoC"
-            }
-          },
-          {
-            "id": "294eb08aeabcf36e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ignition/Connect to Database.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Connect to Database"
-            }
-          },
-          {
-            "id": "429c461cea3799b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database Config Changes Proposal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Database Config Changes Proposal"
+              "title": "Genetec Integration"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,24 +175,27 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "429c461cea3799b0",
+  "active": "a6413d2e239bb57e",
   "lastOpenFiles": [
+    "[Introduction.md",
+    "Database Config Changes Proposal.md",
+    "Ignition/Connect to Database.md",
+    "[Creating.md",
+    "Genetec Integration.md",
+    "Untitled.md",
+    "Minutes, SaW PoC.md",
+    "Genetec/Genetec Training.md",
     "Pasted image 20250408114739.png",
     "Pasted image 20250408114153.png",
-    "Ignition/Connect to Database.md",
-    "Database Config Changes Proposal.md",
     "Ignition/OPC UA and Devices in Ignition.md",
     "Ignition/Ignition Gateway.md",
-    "Minutes, SaW PoC.md",
     "Ignition",
     "Genetec/Training 2.md",
-    "Genetec/Genetec Training.md",
     "Genetec",
     "Investigation results.md",
     "Meeting Notes.md",
     "Meeting Notes - ELCS.md",
     "North Adelaide Dashboard Updates.md",
-    "Untitled.md",
     "Projects/79294 - RAA Go/DB Table Documentation.md",
     "Projects/86167 - FH Containers/Axis camera API.md",
     "Projects/86167 - FH Containers/Kick Off.md",
@@ -287,8 +207,6 @@
     "Projects/EDGE Watchdog PCB/watchdog code design.md",
     "Projects/Life Counter/Requirements.md",
     "Projects/Small Form PCB Case/v2 notes.md",
-    "Projects/Small Form PCB Case/Repo README.md",
-    "Untitled 2.md",
     "Pasted image 20241219151154.png",
     "Pasted image 20241219135316.png",
     "Pasted image 20241219135028.png",
@@ -297,7 +215,6 @@
     "Pasted image 20241219134431.png",
     "Pasted image 20241219140207.png",
     "Pasted image 20241219140017.png",
-    "Pasted image 20241219140008.png",
     "Projects/Life Counter",
     "Wiki Pages/Untitled",
     "North Adelaide Golf Course Visitor Analytics.pdf",
